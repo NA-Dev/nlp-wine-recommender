@@ -1,6 +1,4 @@
-# Python Wine Recommender
-
-
+# NLP Wine Recommender
 
 ### Executive Summary
 
