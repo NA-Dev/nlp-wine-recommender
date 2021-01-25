@@ -1,0 +1,138 @@
+So you are interested in selecting a new wine to try? You can apply various filters, then select 0 to see your recommendations.
+What should I call you during this process?
+Nikki
+
+What type of filter would you like to apply? Enter the number for one of these options:
+0: None, just show my recommendations
+1: Wine Type
+2: Flavor Profile
+3: Taster Rating
+4: Country of Origin
+5: Price Range
+1
+
+Alright Nikki, we have a several types of wine to choose from. Enter the number for one of these options:
+0: None, just show my recommendations
+1: Red (43493 wines)
+2: White (28915 wines)
+3: Red Blend (13781 wines)
+4: White Blend (2861 wines)
+5: Sparkling Rosé Blend (682 wines)
+6: Rosé (3717 wines)
+7: Sparkling White Blend (2069 wines)
+8: Sparkling White (666 wines)
+9: Sparkling Rosé (144 wines)
+10: Rosé Blend (13 wines)
+11: Sparkling Red (76 wines)
+12: Sparkling Red Blend (3 wines)
+7
+
+What type of filter would you like to apply? Enter the number for one of these options:
+0: None, just show my recommendations
+1: Wine Type
+2: Flavor Profile
+3: Taster Rating
+4: Country of Origin
+5: Price Range
+5
+
+What price range would you like to limit this search to? Enter the number for one of these options:
+0: None, just show my recommendations
+1: Everyday $1-$25  (801 wines)
+2: Occasional $26-$75  (1039 wines)
+3: Premium $76-$100  (113 wines)
+4: Luxury $101-$200  (101 wines)
+5: Iconic $201-$3300  (15 wines)
+2
+
+What type of filter would you like to apply? Enter the number for one of these options:
+0: None, just show my recommendations
+1: Wine Type
+2: Flavor Profile
+3: Taster Rating
+4: Country of Origin
+5: Price Range
+2
+
+Which flavor are you in the mood for? Enter the number for one of these options:
+0: None, just show my recommendations
+1: Sweet (51 wines)
+2: Dry (235 wines)
+3: Fruity (291 wines)
+4: Savory (77 wines)
+5: Earthy (72 wines)
+6: Floral (16 wines)
+7: Bitter (26 wines)
+8: Light-Bodied (0 wines)
+9: Full-Bodied (354 wines)
+3
+
+What type of filter would you like to apply? Enter the number for one of these options:
+0: None, just show my recommendations
+1: Wine Type
+2: Flavor Profile
+3: Taster Rating
+4: Country of Origin
+5: Price Range
+3
+
+What rating level would you like to limit this search to? Enter the number for one of these options:
+0: None, just show my recommendations
+1: Excellent 90-100 points  (155 wines)
+2: Pretty Good 86-90 points  (191 wines)
+3: Not My Style 0-85 points  (5 wines)
+1
+
+What type of filter would you like to apply? Enter the number for one of these options:
+0: None, just show my recommendations
+1: Wine Type
+2: Flavor Profile
+3: Taster Rating
+4: Country of Origin
+5: Price Range
+4
+
+Is there a particular country of origin you are interested in? Enter the number for one of these options:
+0: None, just show my recommendations
+1: France (45 wines)
+2: Italy (46 wines)
+3: Spain (18 wines)
+4: US (28 wines)
+5: Austria (6 wines)
+6: Germany (1 wines)
+7: England (11 wines)
+2
+
+Nikki's Top 5 Wine Recommendations
+--------------------------------------
+--------------------------------------
+
+La Valle NV Primum Sparkling
+--------------------------------------
+Sparkling White Blend (Italy)
+$40.0  |  90 points  |  Fruity, Full-Bodied
+Aromas of white spring flowers, orchard fruit, citrus and a hint of bread crust lead the nose. The creamy palate offers nectarine zest, ripe yellow apple and toasted walnut accompanied by a firm, refined perlage.
+
+Bellavista 2007 Pas Operé Extra Brut Sparkling
+--------------------------------------
+Sparkling White Blend (Italy)
+$64.0  |  91 points  |  Fruity, Earthy
+Fragrances recall acacia, white spring flowers, honey, bread dough and beeswax. The concentrated palate delivers mature yellow apple, toasted walnut, clove, vanilla and pie crust alongside vivacious, persistent effervescence.
+
+Barone Pizzini 2011 Naturae Sparkling
+--------------------------------------
+Sparkling White Blend (Italy)
+$45.0  |  92 points  |  Fruity, Savory, Earthy
+A blend of 70% Chardonnay and 30% Pinot Nero, this elegant wine opens with an alluring fragrance of white flowers and stone fruit. Made with no dosage, the linear palate offers juicy yellow apple, citrus, toasted almond and a hint of spice. A refined perlage accentuates the mineral finish.
+
+Fratelli Berlucchi 2010 Pas Dosé Vintage Sparkling
+--------------------------------------
+Sparkling White Blend (Italy)
+$45.0  |  91 points  |  Fruity, Earthy, Full-Bodied
+Made without adding the customary sweetening dosage, this elegant blend of Chardonnay, Pinot Bianco and Pinot Nero opens with floral aromas of passion fruit, ripe pear and walnut. The subtle palate delivers citrus, Golden Delicious apple and toasted walnut alongside brisk acidity and a fine mousse.
+
+Ca' del Bosco 2011 Vintage Collection Dosage Zéro Metodo Classico Sparkling
+--------------------------------------
+Sparkling White Blend (Italy)
+$75.0  |  93 points  |  Fruity, Savory, Earthy, Bitter, Full-Bodied
+Subtle but enticing scents of pear, citrus zest, pastry and a warm whiff of freshly baked bread lead the nose. The smooth, creamy palate delivers juicy yellow apple, tangerine zest, aromatic herb and a spicy ginger note while tiny, persistent bubbles lend elegance. A bitter almond note closes the finish.
